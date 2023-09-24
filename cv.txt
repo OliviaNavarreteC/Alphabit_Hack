@@ -1,0 +1,46 @@
+Amy Diaz
+
+Contact Number: 8745983475 | Email Address: amy@gmail.com | Home Address: rt 205, Coyoacan
+
+Education:
+- Bachelor of Science in Robotics Engineering
+- XYZ University, City, Country
+- Expected Graduation: Month, Year
+
+Relevant Courses/Trainings:
+- Advanced Robotics Systems
+- Artificial Intelligence in Robotics
+- Computer Vision for Robotics
+- Mathematical Methods for Robotics
+- Control Systems for Robotics
+
+Technical Skills:
+- Programming Languages: C++, Python, Java
+- Robotics Software: ROS (Robot Operating System)
+- Electronics and Circuit Design
+- 3D Modeling and CAD Software
+- Machine Learning and Deep Learning
+- Robotic Kinematics and Dynamics
+
+Projects:
+1. Autonomous Mobile Robot Control System
+- Led a team of four members to design and develop an autonomous control system for a mobile robot.
+- Implemented computer vision algorithms for obstacle detection and path planning.
+- Programmed the robot using ROS and integrated various sensors for real-time monitoring.
+
+2. Robotic Arm Manipulator
+- Designed and built a robotic arm manipulator with multiple degrees of freedom.
+- Developed control algorithms for precise and accurate movements.
+- Implemented machine learning techniques to improve the arm's grasping capability.
+
+Work Experience:
+Robotics Intern
+XYZ Robotics Company, City, Country | Month, Year - Month, Year
+- Assisted in the development and testing of robotic systems for industrial applications.
+- Collaborated with the engineering team to integrate various sensor systems into the robots.
+- Conducted troubleshooting and maintenance activities for existing robotic systems.
+
+References:
+Available upon request
+
+Note: This CV follows a clean and concise format with relevant sections highlighting your education, skills, projects, work experience, and references. This format is designed to be easily readable by both humans and AI systems used in the initial screening process by companies.
