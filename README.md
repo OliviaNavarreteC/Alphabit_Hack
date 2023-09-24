@@ -10,5 +10,5 @@ Incluye un html del funcionamiento de la página.
 Para que puedas usar dicho código, únicamente necesitas agregar esta linea en la terminal de tu IDE. 
 
 
->pip install openai> 
+pip install openai
 
