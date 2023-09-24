@@ -27,4 +27,3 @@ Para poder ejecutar la página es necesario situar tu cursos dentro del espacio 
 Con lo anterior te será posible visulizar lo que estas editando. 
 
 Toda la parte de diseño y funcionalidad se realizo directamente en el HTML debido a que se uso bootstrap y este permite acortar el código con las librerias que lo conforman.
-
