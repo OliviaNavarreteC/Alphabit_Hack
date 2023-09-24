@@ -15,3 +15,14 @@ Para que puedas usar dicho código, únicamente necesitas agregar esta linea en 
     pip install openai
     ```
 
+Para la parte visual (HTML) se necesita instalar una extension llamada "Live Server" dentro del IDE que estes utilizando. Lo anterior es para mantener actualizada la página. Una vez installado obsrvaras un botón que dice "Go Live", deberas presionarlo ya que este te permitira activar el servidor.
+
+Para poder ejecutar la página es necesario situar tu cursos dentro del espacio de trabajo del entorno para seguir los siguientes:
+
+(https://pypi.org/project/Flask/): Después deber seguir con los siguientes pasos.
+    ```
+   clic derecho >> open with live server
+
+    ```
+Con lo anterior te será posible visulizar lo que estas editando. 
+
