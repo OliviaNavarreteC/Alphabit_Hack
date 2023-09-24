@@ -21,7 +21,7 @@ Para poder ejecutar la página es necesario situar tu cursos dentro del espacio 
 
 - [Live Server](https://pypi.org/project/Flask/): Después deber seguir con los siguientes pasos.
     ```
-     clic derecho >> open with live serveR
+     clic derecho >> open with live server
     ```
     
 Con lo anterior te será posible visulizar lo que estas editando. 
