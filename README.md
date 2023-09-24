@@ -19,10 +19,9 @@ Para la parte visual (HTML) se necesita instalar una extension llamada "Live Ser
 
 Para poder ejecutar la página es necesario situar tu cursos dentro del espacio de trabajo del entorno para seguir los siguientes:
 
-(https://pypi.org/project/Flask/): Después deber seguir con los siguientes pasos.
+Live Server(https://pypi.org/project/Flask/): Después deber seguir con los siguientes pasos.
     ```
-   clic derecho >> open with live server
-
+   clic derecho >> open with live serveR
     ```
 Con lo anterior te será posible visulizar lo que estas editando. 
 
